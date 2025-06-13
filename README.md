@@ -2,22 +2,13 @@
 
 ## Executar o Projeto
 
-1. **Clonar o repositório**
-2. **Executar npm install**
----
-
-## Rodar testes
-**npm test**
-
 ```bash
 git clone <url-do-repositorio>
 cd <nome-do-diretorio>
+npm install
+```
 
+## Rodar testes
 
-
-* Executar:
-** clonar repositorio
-** npm install
-
-* Rodar testes:
-** npm test
+```bash
+npm test
