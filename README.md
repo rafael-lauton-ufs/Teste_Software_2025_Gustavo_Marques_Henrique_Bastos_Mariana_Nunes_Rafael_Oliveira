@@ -12,7 +12,7 @@ Este repositório contém um projeto desenvolvido em TypeScript com foco em test
 - Desenvolvimento de testes automatizados usando Jest no arquivo `src/errorThrower.test.ts`.
 - Versionamento do código com Git e criação de `.gitignore` adequado.
 
-## 📜 Tutorial + Links Repositório e Vídeo
+## 📜 Tutorial escrito + Links Repositório e Vídeo
 [Abrir PDF](Gustavo_Marques_Henrique_Bastos_Mariana_Nunes_Rafael_Oliveira_atividade_1.pdf)
 
 ## 🗂 Estrutura do projeto
