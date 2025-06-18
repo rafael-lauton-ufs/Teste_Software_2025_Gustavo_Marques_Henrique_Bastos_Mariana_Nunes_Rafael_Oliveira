@@ -13,7 +13,7 @@ Este repositório contém um projeto desenvolvido em TypeScript com foco em test
 - Versionamento do código com Git e criação de `.gitignore` adequado.
 
 ## 📜 Tutorial + Links Repositório e Vídeo
-[Abrir PDF](Gustavo_Marques_Henrique_Bastos_Mariana_Nunes_Rafael_Oliveira_atividade_1)
+[Abrir PDF](Gustavo_Marques_Henrique_Bastos_Mariana_Nunes_Rafael_Oliveira_atividade_1.pdf)
 
 ## 🗂 Estrutura do projeto
 
